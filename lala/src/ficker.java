@@ -1,3 +1,4 @@
+/*
 na ihr ficker
 update ihr ficker
 noch ein update
@@ -5,8 +6,9 @@ hallo
 
 hallo, offizieller snitchtest 2
 
-bkjaldkjfsdiöljfsd
+bkjaldkjfsdiueljfsd
 
 
 
 test, 19.52
+*/
